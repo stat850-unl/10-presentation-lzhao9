@@ -1,0 +1,40 @@
+---
+title: "Assignment 10"
+subtitle: "PART 1"
+Author: Lin Zhao
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## About me
+
+- Name: Lin Zhao
+
+- Birthday: Jul 24
+
+- Program: 2nd year master student in Statistics
+
+- Birthplace: Northwest China
+
+- Expect to graduate on May 2021
+
+## Border Collie
+
+![My favorite puppy](figure/collie.jpeg){#id .class width=50% height=50%}
+
+## Plot
+
+```{r echo=F, message=F}
+data(banknote,package = "mclust")
+banknote$Status <- factor(banknote$Status, labels = c("Genuine", "Fake"))
+#install.packages(mosaic)
+library(mosaic)
+library(ggplot2)
+ggplot(data = banknote)+
+  geom_bar(aes(x = Status, fill = Status))
+```
+
+## CV

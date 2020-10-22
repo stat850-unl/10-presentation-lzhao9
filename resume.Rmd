@@ -1,0 +1,171 @@
+---
+title: "Lin Zhao's resume"
+author: Lin Zhao
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Lijia Yu](figure/profile_pic.jpg){width=40%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> lzhao724@gmail.com
+- <i class="fa fa-phone"></i> +1 (402) 318-9916
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Statistical Analysis
+
+- Programming: Python, MATLAB, R, SAS, Java
+
+- Technical Communication and Consulting
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Lin Zhao {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+### Georgia Institute of Technology
+
+MASTER OF SCIENCE IN COMPUTER SCIENCE
+
+Atlanta, Georgia
+
+2019 - present
+
+GPA:4.0/4.0
+
+### University of Nebraska-Lincoln
+
+MASTER OF SCIENCE IN STATISTICS
+
+Lincoln, Nebraska
+
+2019 - present
+
+GPA:3.961/4.0
+
+
+### Harbin Institute of Technology
+
+MASTER OF ENGINEERING IN MATERIALS ENGINEERING
+
+Shenzhen, China
+
+2016 - 2018
+
+GPA: 3.52/4.0 
+Ranking:1/66
+
+### Liaoning Technical University
+
+B.S. in Materials forming and controlling engineering
+
+Fuxin, China
+
+2011 - 2015
+
+GPA: 3.215/4.0 
+Ranking:2/118
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+University of Nebraska-Lincoln
+
+Lincoln, Nebraska
+
+2020 - present
+
+- Built a model to predict stomatal conductance based on leaf temperature and weather data
+- Performed image registration on thermal image and RGB image to match the green pixels with corresponding temperature information.
+
+
+
+Projects {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Constructing an AI agent to address a human intelligence test
+
+College of computing, Georgia Tech
+
+May.2020-Jul.2020
+
+
+- Course: Knowledge based AI
+- Top 3 performer in 400 students. 
+- Implemented an AI agent to solve Raven’s Progressive Matrices using Python
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for Beginners.
+
+Instructor of R and Data Mining Training Courses at SupStat Inc.
+
+Beijing, China
+
+2014
+
+### Computational Biology and Bioinformatics.
+
+Teaching assistant of GBS CB2-201 courses at UAB
+
+AL, USA
+
+2016 - 2017
+
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+
+Poster for 2013 International Conference of Genomics
+
+Qingdao, China
+
+2014
+
+**Yu L**, Chen B, Zhang Z.
+
+### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+
+J Cell Sci. 2016 May 15;129(10):2075-84.
+
+N/A
+
+2016 
+
+Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
