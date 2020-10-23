@@ -43,6 +43,8 @@ ggplot(data = banknote)+
 
 \begin{frame}{CV}
 
+\url{https://stat850-unl.github.io/10-presentation-lzhao9/resume_Lin_Zhao.pdf}
+
 \end{frame}
 
 \end{document}

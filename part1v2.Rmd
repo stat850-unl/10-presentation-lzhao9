@@ -38,3 +38,5 @@ ggplot(data = banknote)+
 ```
 
 ## CV
+
+[Link to CV](https://stat850-unl.github.io/10-presentation-lzhao9/resume_Lin_Zhao.pdf)
