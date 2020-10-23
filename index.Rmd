@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - [Slides with Rmd](part1v2.html)
 
-- [CV](resume_Lin_Zhao.html)
+- [CV](resume_Lin_Zhao.pdf)
