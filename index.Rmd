@@ -1,0 +1,16 @@
+---
+title: "index"
+author: "Lin Zhao"
+date: "10/22/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- [Slides with Rnw](part1v1.pdf)
+
+- [Slides with Rmd](part1v2.html)
+
+- [CV](resume_Lin_Zhao.html)
